@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055339951823",
+    "firebase_url": "https://paham-budaya.firebaseio.com",
+    "project_id": "paham-budaya",
+    "storage_bucket": "paham-budaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055339951823:android:7adab5be90795392aea9ba",
+        "android_client_info": {
+          "package_name": "com.kebudayaan.pahambudaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055339951823-89lop35giue06n7db1t7uueonqthke7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kebudayaan.pahambudaya",
+            "certificate_hash": "e11aa08171808ddf7e2f1d1b3fbe28941ae9c837"
+          }
+        },
+        {
+          "client_id": "1055339951823-enqlid2mpto7m9l4nbdfs6ens3v52u7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFiU3UMywpDPHr8wf0H-y9UTPn-KWZLJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055339951823-enqlid2mpto7m9l4nbdfs6ens3v52u7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
